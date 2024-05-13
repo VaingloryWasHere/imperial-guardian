@@ -28,4 +28,4 @@ async def on_ready():
 #         await ctx.send(f"Command is on cooldown. Please, try again in **{round(minute_time,1)}** hours.")
 #     else:
 #         print(exception)
-bot.run('Nzk5NjQxMDc4NzU1NjIyOTUz.GKWaiW.NnmcvFCIGoyvecoL6dh2ZnG6HaN6VW7VgPv9TE')
+bot.run('')
